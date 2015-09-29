@@ -1,2 +1,5 @@
 # Backup FreeCAD
 *.fcstd1
+
+#Temp gedit
+*.[*]~
